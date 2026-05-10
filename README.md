@@ -18,7 +18,8 @@ MyPay is a UI/UX prototype for a mobile payment application, designed to streaml
 
 ## Installation
 
-- No installation required; view in [Figma]([https://www.figma.com/proto/jD39H1389FIqTW6h60WxNC/Payment-App-UI-UX]).
+- No installation required; view in [Figma](https://www.figma.com/proto/jD39H1389FIqTW6h60WxNC/Payment-App-UI-UX?node-id=86-1599&p=f&t=bPJunvWtxNDoOMLd-1&scaling=min-zoom&content-scaling=fixed&page-id=86%3A283).
+
 - Explore prototypes and interactions.
 
 ## License
